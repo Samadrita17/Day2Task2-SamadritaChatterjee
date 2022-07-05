@@ -1,0 +1,11 @@
+#one{font-size: 15px;font-weight: bold;}
+body{text-align: center; background-color: rgb(5, 66, 90);border: 40px;color: white;}
+img{width:150x;height:150px}
+
+#bor{
+    width: 300px;
+    border: 10px solid rgb(15, 16, 15);
+    padding: 50px;
+    margin: 50px;
+    
+  }
